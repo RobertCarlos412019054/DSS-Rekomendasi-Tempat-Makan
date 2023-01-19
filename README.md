@@ -4,7 +4,7 @@
 Project ini dikembangkan dari sumber berikut(http://www.hakank.org/minizinc/make_a_good_burger.mzn)
 
 Link Video presentasi dan Video Demo (GDrive)
--untuk link
+(https://drive.google.com/drive/folders/1H6qWwGZW9V-YybtAhr4_z4aURfZCSGxu?usp=share_link)
 
 ### Decision Support System Project.
 Team Terdekat:
