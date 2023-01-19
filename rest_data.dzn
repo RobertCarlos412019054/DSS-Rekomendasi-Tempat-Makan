@@ -1,0 +1,22 @@
+FriedChicken = 1;
+Burger       = 2;
+FrenchFries  = 3;
+Soup         = 4;
+IceCream     = 5;
+Sundae       = 6;
+Float        = 7;
+Cola         = 8;
+
+%declare each cost of the menu in every fast food restaurant
+items = array2d(1..num_items, 1..7,
+[
+% KFC     MCD      A&W       BurgerKing     CFC     Wendys    Jmlh Mkn
+22000,    21000,   22000,    22000,         20500,  23000,    1,      % Fried Chicken
+33000,    31000,   29000,    22000,         21500,  39000,    1,      % Burger
+23500,    19000,   30500,    28000,         20500,  24000,    1,      % French Fries
+12500,    10000,   15000,    10000,         13000,  15000,    1,      % Soup
+10000,    8000,    10000,    10000,         8000,   13000,    1,      % Ice Cream
+12500,    11000,   16000,    15500,         9000,   19000,    1,      % Sundae
+12500,    14000,   20000,    21000,         18000,  23000,    1,      % Float
+14000,    13000,   13500,    22500,         10000,  14500,    1,      % Cola
+]);
