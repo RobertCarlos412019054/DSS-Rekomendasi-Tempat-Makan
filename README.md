@@ -11,3 +11,16 @@ Team Terdekat:
 * Adrianne Mathilda
 * Marco Cung
 * Robert Carlos
+
+Cara kerjanya yaitu Menampilkan Harga dari 6 tempat makan cepat saji beserta menu makanan yang dipesan.
+
+=========================================================================
+
+### Sukses:
+* Muncul harga dari 6 tempat makan cepat saji beserta jumlah makanan.
+* Muncul makanan apa yang dipesan dari total jumlah makanan.
+
+### Submission Files
+
+File berikut disertakan sebagai bagian dari pengiriman:
+* README.md
